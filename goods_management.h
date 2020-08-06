@@ -1,3 +1,4 @@
+//GB2312
 #include <stdbool.h>
 
 //最大存储商品数量
